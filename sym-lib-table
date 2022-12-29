@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name mfrcLib)(type Legacy)(uri D:/2022/mfrcDesign/IC_NXP_MFRC52202HN1,157/eec.lib)(options "")(descr ""))
+  (lib (name abracon)(type Legacy)(uri D:/2022/mfrcDesign/ABM8-27.120MHZ-B4-T/ABM8-27.120MHZ-B4-T.lib)(options "")(descr ""))
+  (lib (name Logo)(type Legacy)(uri D:/2022/VehicleManagementSystem/interfaceBoard/InterfaceBoard/ibLogo.lib)(options "")(descr ""))
+)
