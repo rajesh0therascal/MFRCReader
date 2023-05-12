@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MFRC)(type KiCad)(uri D:/2022/mfrcDesign/IC_NXP_MFRC52202HN1,157/eec.pretty)(options "")(descr ""))
+  (lib (name ABRACON)(type KiCad)(uri D:/2022/mfrcDesign/ABM8-27.120MHZ-B4-T)(options "")(descr ""))
+  (lib (name igcar)(type KiCad)(uri D:/2022/mfrcDesign/mfrcReader)(options "")(descr ""))
+)
